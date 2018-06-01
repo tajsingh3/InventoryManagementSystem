@@ -1,0 +1,10 @@
+C:\Users\Tajwinder\Desktop\InventorySystemWebApplication\WcfService1\bin\WcfService1.dll.config
+C:\Users\Tajwinder\Desktop\InventorySystemWebApplication\WcfService1\bin\WcfService1.dll
+C:\Users\Tajwinder\Desktop\InventorySystemWebApplication\WcfService1\bin\WcfService1.pdb
+C:\Users\Tajwinder\Desktop\InventorySystemWebApplication\WcfService1\bin\InventorySystemWebApplication.dll
+C:\Users\Tajwinder\Desktop\InventorySystemWebApplication\WcfService1\bin\InventorySystemWebApplication.pdb
+C:\Users\Tajwinder\Desktop\InventorySystemWebApplication\WcfService1\bin\InventorySystemWebApplication.dll.config
+C:\Users\Tajwinder\Desktop\InventorySystemWebApplication\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+C:\Users\Tajwinder\Desktop\InventorySystemWebApplication\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\Tajwinder\Desktop\InventorySystemWebApplication\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Tajwinder\Desktop\InventorySystemWebApplication\WcfService1\obj\Debug\WcfService1.pdb
