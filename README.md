@@ -1,6 +1,6 @@
 # InventoryManagementSystem
 
-The purpose of the application will be to view and manage the current state of inventory for a small business. The user should be able to view and create purchase orders for inventory and also be able to view the current state of the inventory. The user will be also allowed to create reports for the current inventory and purchase orders.    
+The purpose of this application is to be able to view and manage the current state of inventory for a small business. The user should be able to view and create purchase orders for inventory and also be able to view the current state of the inventory. The user will be also allowed to create reports for the current inventory and purchase orders.    
 
 The technologies used in the application will mainly include C#, ADO.NET, and Windows Forms. 
 
